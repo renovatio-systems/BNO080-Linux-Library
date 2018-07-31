@@ -1,3 +1,0 @@
-[submodule "I2C"]
-	path = I2C
-	url = https://github.com/williamg42/I2C.git
